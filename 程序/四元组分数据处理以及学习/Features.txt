@@ -125,9 +125,3 @@
  mean GSmagmom
  avg_dev GSmagmom
  mode GSmagmom
- minimum SpaceGroupNumber
- maximum SpaceGroupNumber
- range SpaceGroupNumber
- mean SpaceGroupNumber
- avg_dev SpaceGroupNumber
- mode SpaceGroupNumber
